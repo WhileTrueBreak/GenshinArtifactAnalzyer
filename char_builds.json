@@ -1,0 +1,2014 @@
+{
+  "aino": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 4,
+            "Elemental Mastery": 4,
+            "ATK%": 5
+          },
+          "main_affix": {
+            "Sands": [
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "Elemental Mastery",
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Silken Moon's Serenade",
+          "Noblesse Oblige",
+          "Instructor",
+          "Deepwood Memories"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-20T00:00:00"
+  },
+  "albedo": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "alhaitham": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "aloy": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "alyosha": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 4,
+            "CRIT DMG%": 5,
+            "ATK%": 6,
+            "Elemental Mastery": 7
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Electro DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Noblesse Oblige",
+          "Heart of the Furnace"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-23T00:00:00"
+  },
+  "amber": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "arataki-itto": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "arlecchino": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2,
+            "Elemental Mastery": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "Pyro DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Fragment of Harmonic Whimsy",
+          "Gladiator's Finale"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-20T00:00:00"
+  },
+  "baizhu": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "barbara": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "beidou": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 2,
+            "CRIT DMG%": 2,
+            "ATK%": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "HP%",
+              "Electro DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Noblesse Oblige",
+          "Heart of the Furnace"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-12T00:00:00"
+  },
+  "bennett": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "HP%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "HP%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "Healing Bonus%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Noblesse Oblige",
+          "Instructor",
+          "Scroll of the Hero of Cinder City"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-12T00:00:00"
+  },
+  "candace": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "charlotte": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "chasca": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2,
+            "Elemental Mastery": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Obsidian Codex",
+          "Viridescent Venerer",
+          "Marechaussee Hunter"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-21T00:00:00"
+  },
+  "chevreuse": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "HP%": 1,
+            "Energy Recharge%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "HP%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "HP%"
+            ],
+            "Circlet": [
+              "HP%",
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Noblesse Oblige",
+          "Song of Days Past",
+          "Scroll of the Hero of Cinder City"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-23T00:00:00"
+  },
+  "chiori": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "chongyun": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "citlali": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "Elemental Mastery": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "Elemental Mastery",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "Elemental Mastery",
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Scroll of the Hero of Cinder City",
+          "Instructor",
+          "Noblesse Oblige",
+          "Tenacity of the Millelith"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-23T00:00:00"
+  },
+  "clorinde": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "collei": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "columbina": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "HP%": 2,
+            "CRIT Rate%": 3,
+            "CRIT DMG%": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "HP%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "HP%"
+            ],
+            "Circlet": [
+              "HP%",
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Silken Moon's Serenade",
+          "Aubade of Morningstar and Moon",
+          "Deepwood Memories"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-21T00:00:00"
+  },
+  "cyno": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 2,
+            "CRIT DMG%": 2,
+            "ATK%": 3,
+            "Elemental Mastery": 4
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Disenchantment in Deep Shadow",
+          "Gilded Dreams"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-20T00:00:00"
+  },
+  "dahlia": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "dehya": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "diluc": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "diona": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "HP%": 2,
+            "CRIT Rate%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "HP%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "HP%"
+            ],
+            "Circlet": [
+              "HP%",
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Noblesse Oblige",
+          "Tenacity of the Millelith",
+          "Heart of the Furnace"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-24T00:00:00"
+  },
+  "dori": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "durin": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 2,
+            "CRIT DMG%": 2,
+            "ATK%": 3,
+            "Elemental Mastery": 4
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Pyro DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "A Day Carved From Rising Winds",
+          "Celestial Gift",
+          "Emblem of Severed Fate",
+          "Noblesse Oblige"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-08T00:00:00"
+  },
+  "emilie": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "escoffier": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 2,
+            "CRIT DMG%": 2,
+            "ATK%": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Cryo DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Golden Troupe",
+          "Scroll of the Hero of Cinder City",
+          "Tenacity of the Millelith",
+          "Noblesse Oblige"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-25T00:00:00"
+  },
+  "eula": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "faruzan": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1
+          },
+          "main_affix": {
+            "Sands": [
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "Anemo DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Tenacity of the Millelith",
+          "Viridescent Venerer",
+          "Noblesse Oblige"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-05T00:00:00"
+  },
+  "fischl": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "flins": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2,
+            "Elemental Mastery": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Night of the Sky's Unveiling",
+          "Thundering Fury",
+          "Gilded Dreams"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-12T00:00:00"
+  },
+  "freminet": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "furina": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 2,
+            "CRIT DMG%": 2,
+            "HP%": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "HP%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "HP%",
+              "Hydro DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Golden Troupe",
+          "Tenacity of the Millelith"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-25T00:00:00"
+  },
+  "gaming": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 2,
+            "CRIT DMG%": 2,
+            "Elemental Mastery": 3,
+            "ATK%": 4
+          },
+          "main_affix": {
+            "Sands": [
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "Pyro DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Crimson Witch of Flames",
+          "Long Night's Oath",
+          "Marechaussee Hunter",
+          "Gilded Dreams",
+          "Night of the Sky's Unveiling",
+          "Unfinished Reverie"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-30T00:00:00"
+  },
+  "ganyu": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "gorou": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 2,
+            "DEF%": 4
+          },
+          "main_affix": {
+            "Sands": [
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "DEF%"
+            ],
+            "Circlet": [
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Instructor",
+          "Silken Moon's Serenade",
+          "The Exile"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-11T00:00:00"
+  },
+  "hu-tao": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "iansan": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "ATK%": 2,
+            "ATK": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "ATK%"
+            ],
+            "Circlet": [
+              "ATK%",
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Scroll of the Hero of Cinder City",
+          "Noblesse Oblige"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-23T00:00:00"
+  },
+  "ifa": {
+    "builds": [],
+    "last_updated": "2026-08-12T00:00:00"
+  },
+  "illuga": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "Elemental Mastery": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "Elemental Mastery",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "Elemental Mastery",
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Silken Moon's Serenade",
+          "Instructor"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-08T00:00:00"
+  },
+  "ineffa": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "ATK%": 1,
+            "CRIT Rate%": 2,
+            "CRIT DMG%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Aubade of Morningstar and Moon",
+          "Silken Moon's Serenade"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-12T00:00:00"
+  },
+  "jahoda": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "jean": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "kachina": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "kaedehara-kazuha": {
+    "builds": [],
+    "last_updated": "2026-08-12T00:00:00"
+  },
+  "kaeya": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "kamisato-ayaka": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "kamisato-ayato": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "kaveh": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "keqing": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "kinich": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Dendro DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Obsidian Codex",
+          "Unfinished Reverie"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-24T00:00:00"
+  },
+  "kirara": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "klee": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "kujou-sara": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "kuki-shinobu": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "lan-yan": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "lauma": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "Elemental Mastery": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "Elemental Mastery",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "Elemental Mastery"
+            ]
+          }
+        },
+        "artifacts": [
+          "Silken Moon's Serenade",
+          "Deepwood Memories",
+          "Gilded Dreams"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-08T00:00:00"
+  },
+  "layla": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "linnea": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "DEF%": 1,
+            "CRIT Rate%": 2,
+            "CRIT DMG%": 2,
+            "Elemental Mastery": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "DEF%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "DEF%"
+            ],
+            "Circlet": [
+              "DEF%",
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Aubade of Morningstar and Moon",
+          "Husk of Opulent Dreams",
+          "Silken Moon's Serenade"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-20T00:00:00"
+  },
+  "lisa": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "lohen": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Cryo DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "A Day Carved From Rising Winds",
+          "Shimenawa's Reminiscence"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-25T00:00:00"
+  },
+  "lynette": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "lyney": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "mavuika": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "Elemental Mastery": 2,
+            "ATK%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "Pyro DMG%"
+            ],
+            "Circlet": [
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Obsidian Codex"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-12T00:00:00"
+  },
+  "mika": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "mitya": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 2,
+            "CRIT DMG%": 2,
+            "Elemental Mastery": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "Elemental Mastery",
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Disenchantment in Deep Shadow",
+          "Gilded Dreams"
+        ]
+      }
+    ],
+    "last_updated": "2026-11-04T00:00:00"
+  },
+  "mona": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1
+          },
+          "main_affix": {
+            "Sands": [
+              "Energy Recharge%"
+            ],
+            "Goblet": [],
+            "Circlet": [
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Celestial Gift",
+          "Noblesse Oblige"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-23T00:00:00"
+  },
+  "mualani": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 2,
+            "CRIT DMG%": 2,
+            "HP%": 3,
+            "Elemental Mastery": 4
+          },
+          "main_affix": {
+            "Sands": [
+              "HP%",
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "HP%",
+              "Elemental Mastery",
+              "Hydro DMG%"
+            ],
+            "Circlet": [
+              "HP%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Obsidian Codex",
+          "Heart of Depth"
+        ]
+      }
+    ],
+    "last_updated": "2026-11-04T00:00:00"
+  },
+  "nahida": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "Elemental Mastery": 2,
+            "CRIT Rate%": 3,
+            "CRIT DMG%": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "Elemental Mastery"
+            ]
+          }
+        },
+        "artifacts": [
+          "Deepwood Memories",
+          "Instructor"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-25T00:00:00"
+  },
+  "navia": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "nefer": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "Elemental Mastery": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "Elemental Mastery",
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Night of the Sky's Unveiling",
+          "Gilded Dreams"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-20T00:00:00"
+  },
+  "neuvillette": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "Energy Recharge%": 1,
+            "HP%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "HP%"
+            ],
+            "Goblet": [
+              "HP%",
+              "Hydro DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Marechaussee Hunter",
+          "Night of the Sky's Unveiling"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-25T00:00:00"
+  },
+  "nicole": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "ATK%": 1,
+            "Energy Recharge%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%"
+            ],
+            "Circlet": [
+              "ATK%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Celestial Gift",
+          "A Day Carved From Rising Winds"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-12T00:00:00"
+  },
+  "nilou": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "HP%": 1,
+            "HP": 2,
+            "Elemental Mastery": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "HP%"
+            ],
+            "Goblet": [
+              "HP%"
+            ],
+            "Circlet": [
+              "HP%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Silken Moon's Serenade",
+          "Instructor"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-21T00:00:00"
+  },
+  "ningguang": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "noelle": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "odette": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "ATK%": 1,
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "Elemental Mastery": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Heart of the Furnace",
+          "Disenchantment in Deep Shadow",
+          "Tenacity of the Millelith"
+        ]
+      }
+    ],
+    "last_updated": "2026-11-03T00:00:00"
+  },
+  "ororon": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "prune": {
+    "builds": [],
+    "last_updated": "2026-08-12T00:00:00"
+  },
+  "qiqi": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "ATK%": 1,
+            "CRIT Rate%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%"
+            ],
+            "Circlet": [
+              "ATK%",
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Tenacity of the Millelith",
+          "Heart of the Furnace"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-23T00:00:00"
+  },
+  "raiden-shogun": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "Energy Recharge%": 2,
+            "ATK%": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Elemental Mastery",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Elemental Mastery",
+              "Electro DMG%"
+            ],
+            "Circlet": [
+              "Elemental Mastery",
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Emblem of Severed Fate",
+          "Night of the Sky's Unveiling",
+          "Gilded Dreams",
+          "A Day Carved From Rising Winds"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-25T00:00:00"
+  },
+  "razor": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "rosaria": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "sandrone": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2,
+            "Elemental Mastery": 3,
+            "Energy Recharge%": 4
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Disenchantment in Deep Shadow",
+          "Gilded Dreams",
+          "A Day Carved From Rising Winds"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-25T00:00:00"
+  },
+  "sangonomiya-kokomi": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "sayu": {
+    "builds": [],
+    "last_updated": "2026-08-12T00:00:00"
+  },
+  "sethos": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "shenhe": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "ATK%": 2,
+            "ATK": 3,
+            "CRIT Rate%": 4
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "ATK%"
+            ],
+            "Circlet": [
+              "ATK%",
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Noblesse Oblige",
+          "Scroll of the Hero of Cinder City"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-13T00:00:00"
+  },
+  "shikanoin-heizou": {
+    "builds": [],
+    "last_updated": "2026-08-12T00:00:00"
+  },
+  "sigewinne": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "skirk": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Cryo DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Finale of the Deep Galleries",
+          "Marechaussee Hunter"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-25T00:00:00"
+  },
+  "sucrose": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Elemental Mastery": 1
+          },
+          "main_affix": {
+            "Sands": [
+              "Elemental Mastery",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "Elemental Mastery",
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Viridescent Venerer",
+          "Instructor",
+          "Deepwood Memories"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-09T00:00:00"
+  },
+  "tartaglia": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "thoma": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "tighnari": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "traveler-anemo": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "traveler-cryo": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2,
+            "Elemental Mastery": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Disenchantment in Deep Shadow",
+          "Heart of the Furnace",
+          "Tenacity of the Millelith"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-05T00:00:00"
+  },
+  "traveler-dendro": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "traveler-electro": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "traveler-geo": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "traveler-hydro": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "traveler-pyro": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "valeriy": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "ATK%": 2,
+            "CRIT Rate%": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "ATK%"
+            ],
+            "Circlet": [
+              "ATK%",
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": []
+      }
+    ],
+    "last_updated": "2026-11-03T00:00:00"
+  },
+  "varesa": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Electro DMG%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Long Night's Oath",
+          "Obsidian Codex"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-13T00:00:00"
+  },
+  "varka": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "A Day Carved From Rising Winds",
+          "Shimenawa's Reminiscence",
+          "Desert Pavilion Chronicle",
+          "Gladiator's Finale"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-25T00:00:00"
+  },
+  "venti": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "CRIT Rate%": 2,
+            "CRIT DMG%": 2,
+            "ATK%": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Elemental Mastery",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Elemental Mastery",
+              "Anemo DMG%"
+            ],
+            "Circlet": [
+              "Elemental Mastery",
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "A Day Carved From Rising Winds",
+          "Desert Pavilion Chronicle"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-25T00:00:00"
+  },
+  "vesna": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2,
+            "Elemental Mastery": 3,
+            "Energy Recharge%": 4
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%"
+            ],
+            "Goblet": [
+              "ATK%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Scarlet Proof",
+          "Gilded Dreams"
+        ]
+      }
+    ],
+    "last_updated": "2026-11-03T00:00:00"
+  },
+  "vodyanitsa": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "HP%": 1,
+            "HP": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "HP%"
+            ],
+            "Goblet": [
+              "HP%"
+            ],
+            "Circlet": [
+              "HP%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Tenacity of the Millelith"
+        ]
+      }
+    ],
+    "last_updated": "2026-11-03T00:00:00"
+  },
+  "wanderer": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "wriothesley": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2,
+            "Elemental Mastery": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Disenchantment in Deep Shadow",
+          "Marechaussee Hunter"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-22T00:00:00"
+  },
+  "xiangling": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "xianyun": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "xiao": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "xilonen": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "Energy Recharge%": 1,
+            "DEF%": 1
+          },
+          "main_affix": {
+            "Sands": [
+              "DEF%",
+              "Energy Recharge%"
+            ],
+            "Goblet": [
+              "DEF%"
+            ],
+            "Circlet": [
+              "DEF%",
+              "CRIT Rate%",
+              "Healing Bonus%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Scroll of the Hero of Cinder City",
+          "Instructor",
+          "Archaic Petra"
+        ]
+      }
+    ],
+    "last_updated": "2026-08-08T00:00:00"
+  },
+  "xingqiu": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "xinyan": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "yae-miko": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "ATK%": 2,
+            "Elemental Mastery": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "ATK%",
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "ATK%",
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Disenchantment in Deep Shadow",
+          "Gilded Dreams",
+          "Heart of the Furnace",
+          "Golden Troupe"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-25T00:00:00"
+  },
+  "yanfei": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "yaoyao": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "yelan": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "yoimiya": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "yumemizuki-mizuki": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "Elemental Mastery": 2
+          },
+          "main_affix": {
+            "Sands": [
+              "Elemental Mastery"
+            ],
+            "Goblet": [
+              "Elemental Mastery"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Gilded Dreams",
+          "Viridescent Venerer",
+          "Scarlet Proof"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-20T00:00:00"
+  },
+  "yun-jin": {
+    "builds": [],
+    "last_updated": "2026-08-05T00:00:00"
+  },
+  "zhongli": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "HP%": 1,
+            "HP": 2,
+            "CRIT Rate%": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "HP%"
+            ],
+            "Goblet": [
+              "HP%"
+            ],
+            "Circlet": [
+              "HP%",
+              "CRIT Rate%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Instructor",
+          "Tenacity of the Millelith"
+        ]
+      }
+    ],
+    "last_updated": "2026-09-13T00:00:00"
+  },
+  "zibai": {
+    "builds": [
+      {
+        "affixes": {
+          "minor_affix": {
+            "CRIT Rate%": 1,
+            "CRIT DMG%": 1,
+            "DEF%": 2,
+            "Elemental Mastery": 3
+          },
+          "main_affix": {
+            "Sands": [
+              "DEF%"
+            ],
+            "Goblet": [
+              "DEF%"
+            ],
+            "Circlet": [
+              "CRIT Rate%",
+              "CRIT DMG%"
+            ]
+          }
+        },
+        "artifacts": [
+          "Night of the Sky's Unveiling",
+          "Husk of Opulent Dreams"
+        ]
+      }
+    ],
+    "last_updated": "2026-10-24T00:00:00"
+  }
+}

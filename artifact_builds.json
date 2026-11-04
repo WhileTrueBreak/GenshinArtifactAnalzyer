@@ -1,0 +1,3556 @@
+{
+  "Silken Moon's Serenade": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 4,
+          "Elemental Mastery": 4,
+          "ATK%": 5
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "aino"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "HP%": 2,
+          "CRIT Rate%": 3,
+          "CRIT DMG%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "columbina"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "DEF%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "DEF%"
+          ],
+          "Circlet": [
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "gorou"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "illuga"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "ATK%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "ineffa"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery"
+          ]
+        }
+      },
+      "characters": [
+        "lauma"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "DEF%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "DEF%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "DEF%"
+          ],
+          "Circlet": [
+            "DEF%",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "linnea"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "HP%": 1,
+          "HP": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%"
+          ]
+        }
+      },
+      "characters": [
+        "nilou"
+      ]
+    }
+  ],
+  "Noblesse Oblige": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 4,
+          "Elemental Mastery": 4,
+          "ATK%": 5
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "aino"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 4,
+          "CRIT DMG%": 5,
+          "ATK%": 6,
+          "Elemental Mastery": 7
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Electro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "alyosha"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%",
+            "Electro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "beidou"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "HP%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "Healing Bonus%"
+          ]
+        }
+      },
+      "characters": [
+        "bennett"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "HP%": 1,
+          "Energy Recharge%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "chevreuse"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "citlali"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "HP%": 2,
+          "CRIT Rate%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "diona"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3,
+          "Elemental Mastery": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "durin"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Cryo DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "escoffier"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Anemo DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "faruzan"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "ATK%": 2,
+          "ATK": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "ATK%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "iansan"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [],
+          "Circlet": [
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "mona"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "ATK%": 2,
+          "ATK": 3,
+          "CRIT Rate%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "ATK%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "shenhe"
+      ]
+    }
+  ],
+  "Instructor": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 4,
+          "Elemental Mastery": 4,
+          "ATK%": 5
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "aino"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "HP%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "Healing Bonus%"
+          ]
+        }
+      },
+      "characters": [
+        "bennett"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "citlali",
+        "illuga"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "DEF%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "DEF%"
+          ],
+          "Circlet": [
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "gorou"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "illuga"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "Elemental Mastery": 2,
+          "CRIT Rate%": 3,
+          "CRIT DMG%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery"
+          ]
+        }
+      },
+      "characters": [
+        "nahida"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "HP%": 1,
+          "HP": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%"
+          ]
+        }
+      },
+      "characters": [
+        "nilou"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Elemental Mastery": 1
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "sucrose"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "DEF%": 1
+        },
+        "main_affix": {
+          "Sands": [
+            "DEF%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "DEF%"
+          ],
+          "Circlet": [
+            "DEF%",
+            "CRIT Rate%",
+            "Healing Bonus%"
+          ]
+        }
+      },
+      "characters": [
+        "xilonen"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "HP%": 1,
+          "HP": 2,
+          "CRIT Rate%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "zhongli"
+      ]
+    }
+  ],
+  "Deepwood Memories": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 4,
+          "Elemental Mastery": 4,
+          "ATK%": 5
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "aino"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "HP%": 2,
+          "CRIT Rate%": 3,
+          "CRIT DMG%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "columbina"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery"
+          ]
+        }
+      },
+      "characters": [
+        "lauma"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "Elemental Mastery": 2,
+          "CRIT Rate%": 3,
+          "CRIT DMG%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery"
+          ]
+        }
+      },
+      "characters": [
+        "nahida"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Elemental Mastery": 1
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "sucrose"
+      ]
+    }
+  ],
+  "Heart of the Furnace": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 4,
+          "CRIT DMG%": 5,
+          "ATK%": 6,
+          "Elemental Mastery": 7
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Electro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "alyosha"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%",
+            "Electro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "beidou"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "HP%": 2,
+          "CRIT Rate%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "diona"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "ATK%": 1,
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "odette"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "ATK%": 1,
+          "CRIT Rate%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "ATK%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "qiqi"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "traveler-cryo"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "yae-miko"
+      ]
+    }
+  ],
+  "Fragment of Harmonic Whimsy": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "arlecchino"
+      ]
+    }
+  ],
+  "Gladiator's Finale": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "arlecchino"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "varka"
+      ]
+    }
+  ],
+  "Scroll of the Hero of Cinder City": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "HP%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "Healing Bonus%"
+          ]
+        }
+      },
+      "characters": [
+        "bennett"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "HP%": 1,
+          "Energy Recharge%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "chevreuse"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "citlali"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Cryo DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "escoffier"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "ATK%": 2,
+          "ATK": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "ATK%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "iansan"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "ATK%": 2,
+          "ATK": 3,
+          "CRIT Rate%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "ATK%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "shenhe"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "DEF%": 1
+        },
+        "main_affix": {
+          "Sands": [
+            "DEF%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "DEF%"
+          ],
+          "Circlet": [
+            "DEF%",
+            "CRIT Rate%",
+            "Healing Bonus%"
+          ]
+        }
+      },
+      "characters": [
+        "xilonen"
+      ]
+    }
+  ],
+  "Obsidian Codex": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "chasca"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Dendro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "kinich"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Elemental Mastery": 2,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "mavuika"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "HP%": 3,
+          "Elemental Mastery": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "HP%",
+            "Elemental Mastery",
+            "Hydro DMG%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "mualani"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Electro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "varesa"
+      ]
+    }
+  ],
+  "Viridescent Venerer": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "chasca"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Anemo DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "faruzan"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Elemental Mastery": 1
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "sucrose"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "yumemizuki-mizuki"
+      ]
+    }
+  ],
+  "Marechaussee Hunter": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "chasca"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "Elemental Mastery": 3,
+          "ATK%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "gaming"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Energy Recharge%": 1,
+          "HP%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%"
+          ],
+          "Goblet": [
+            "HP%",
+            "Hydro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "neuvillette"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Cryo DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "skirk"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "wriothesley"
+      ]
+    }
+  ],
+  "Song of Days Past": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "HP%": 1,
+          "Energy Recharge%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "chevreuse"
+      ]
+    }
+  ],
+  "Tenacity of the Millelith": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "citlali"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "HP%": 2,
+          "CRIT Rate%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "diona"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Cryo DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "escoffier"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Anemo DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "faruzan"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "HP%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%",
+            "Hydro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "furina"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "ATK%": 1,
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "odette"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "ATK%": 1,
+          "CRIT Rate%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "ATK%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "qiqi"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "traveler-cryo"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "HP%": 1,
+          "HP": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%"
+          ]
+        }
+      },
+      "characters": [
+        "vodyanitsa"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "HP%": 1,
+          "HP": 2,
+          "CRIT Rate%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "zhongli"
+      ]
+    }
+  ],
+  "Aubade of Morningstar and Moon": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "HP%": 2,
+          "CRIT Rate%": 3,
+          "CRIT DMG%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "columbina"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "ATK%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "ineffa"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "DEF%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "DEF%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "DEF%"
+          ],
+          "Circlet": [
+            "DEF%",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "linnea"
+      ]
+    }
+  ],
+  "Disenchantment in Deep Shadow": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3,
+          "Elemental Mastery": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "cyno"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "mitya"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "ATK%": 1,
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "odette"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3,
+          "Energy Recharge%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "sandrone"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "traveler-cryo"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "wriothesley",
+        "yae-miko"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "yae-miko"
+      ]
+    }
+  ],
+  "Gilded Dreams": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3,
+          "Elemental Mastery": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "cyno"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "flins"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "Elemental Mastery": 3,
+          "ATK%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "gaming"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery"
+          ]
+        }
+      },
+      "characters": [
+        "lauma"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "mitya"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "nefer"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Energy Recharge%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery",
+            "Electro DMG%"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "raiden-shogun"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3,
+          "Energy Recharge%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "sandrone",
+        "vesna"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3,
+          "Energy Recharge%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "vesna"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "yae-miko"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "yumemizuki-mizuki"
+      ]
+    }
+  ],
+  "A Day Carved From Rising Winds": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3,
+          "Elemental Mastery": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "durin"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Cryo DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "lohen"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "ATK%": 1,
+          "Energy Recharge%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "ATK%"
+          ]
+        }
+      },
+      "characters": [
+        "nicole"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Energy Recharge%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery",
+            "Electro DMG%"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "raiden-shogun"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3,
+          "Energy Recharge%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "sandrone"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "varka"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery",
+            "Anemo DMG%"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "venti"
+      ]
+    }
+  ],
+  "Celestial Gift": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3,
+          "Elemental Mastery": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "durin"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [],
+          "Circlet": [
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "mona"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "ATK%": 1,
+          "Energy Recharge%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "ATK%"
+          ]
+        }
+      },
+      "characters": [
+        "nicole"
+      ]
+    }
+  ],
+  "Emblem of Severed Fate": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3,
+          "Elemental Mastery": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "durin"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Energy Recharge%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery",
+            "Electro DMG%"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "raiden-shogun"
+      ]
+    }
+  ],
+  "Golden Troupe": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Cryo DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "escoffier"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "HP%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "HP%",
+            "Hydro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "furina"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "yae-miko"
+      ]
+    }
+  ],
+  "Night of the Sky's Unveiling": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "flins"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "Elemental Mastery": 3,
+          "ATK%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "gaming"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "nefer"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Energy Recharge%": 1,
+          "HP%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%"
+          ],
+          "Goblet": [
+            "HP%",
+            "Hydro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "neuvillette"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Energy Recharge%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery",
+            "Electro DMG%"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "raiden-shogun"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "DEF%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "DEF%"
+          ],
+          "Goblet": [
+            "DEF%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "zibai"
+      ]
+    }
+  ],
+  "Thundering Fury": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "flins"
+      ]
+    }
+  ],
+  "Crimson Witch of Flames": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "Elemental Mastery": 3,
+          "ATK%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "gaming"
+      ]
+    }
+  ],
+  "Long Night's Oath": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "Elemental Mastery": 3,
+          "ATK%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "gaming"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Electro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "varesa"
+      ]
+    }
+  ],
+  "Unfinished Reverie": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "Elemental Mastery": 3,
+          "ATK%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Pyro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "gaming"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Dendro DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "kinich"
+      ]
+    }
+  ],
+  "The Exile": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "DEF%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "DEF%"
+          ],
+          "Circlet": [
+            "CRIT Rate%"
+          ]
+        }
+      },
+      "characters": [
+        "gorou"
+      ]
+    }
+  ],
+  "Husk of Opulent Dreams": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "DEF%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "DEF%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "DEF%"
+          ],
+          "Circlet": [
+            "DEF%",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "linnea"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "DEF%": 2,
+          "Elemental Mastery": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "DEF%"
+          ],
+          "Goblet": [
+            "DEF%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "zibai"
+      ]
+    }
+  ],
+  "Shimenawa's Reminiscence": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Cryo DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "lohen"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "varka"
+      ]
+    }
+  ],
+  "Heart of Depth": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "HP%": 3,
+          "Elemental Mastery": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "HP%",
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "HP%",
+            "Elemental Mastery",
+            "Hydro DMG%"
+          ],
+          "Circlet": [
+            "HP%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "mualani"
+      ]
+    }
+  ],
+  "Finale of the Deep Galleries": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Cryo DMG%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "skirk"
+      ]
+    }
+  ],
+  "Desert Pavilion Chronicle": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "varka"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "CRIT Rate%": 2,
+          "CRIT DMG%": 2,
+          "ATK%": 3
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%",
+            "Elemental Mastery",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "ATK%",
+            "Elemental Mastery",
+            "Anemo DMG%"
+          ],
+          "Circlet": [
+            "Elemental Mastery",
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "venti"
+      ]
+    }
+  ],
+  "Scarlet Proof": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "ATK%": 2,
+          "Elemental Mastery": 3,
+          "Energy Recharge%": 4
+        },
+        "main_affix": {
+          "Sands": [
+            "ATK%"
+          ],
+          "Goblet": [
+            "ATK%"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "vesna"
+      ]
+    },
+    {
+      "affixes": {
+        "minor_affix": {
+          "CRIT Rate%": 1,
+          "CRIT DMG%": 1,
+          "Elemental Mastery": 2
+        },
+        "main_affix": {
+          "Sands": [
+            "Elemental Mastery"
+          ],
+          "Goblet": [
+            "Elemental Mastery"
+          ],
+          "Circlet": [
+            "CRIT Rate%",
+            "CRIT DMG%"
+          ]
+        }
+      },
+      "characters": [
+        "yumemizuki-mizuki"
+      ]
+    }
+  ],
+  "Archaic Petra": [
+    {
+      "affixes": {
+        "minor_affix": {
+          "Energy Recharge%": 1,
+          "DEF%": 1
+        },
+        "main_affix": {
+          "Sands": [
+            "DEF%",
+            "Energy Recharge%"
+          ],
+          "Goblet": [
+            "DEF%"
+          ],
+          "Circlet": [
+            "DEF%",
+            "CRIT Rate%",
+            "Healing Bonus%"
+          ]
+        }
+      },
+      "characters": [
+        "xilonen"
+      ]
+    }
+  ]
+}
