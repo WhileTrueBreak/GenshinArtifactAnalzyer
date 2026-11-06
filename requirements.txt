@@ -1,0 +1,14 @@
+beautifulsoup4==4.15.0
+colorama==0.4.6
+frozendict==2.5.1
+keyboard==0.13.5
+mss==10.2.0
+numpy==2.5.4
+opencv_python==5.0.0.93
+Pillow==13.0.0
+pyautogui==0.9.54
+pygetwindow==0.0.9
+Requests==2.34.2
+rich==15.0.0
+strsimpy==0.3.0
+tesserocr==2.12.0
